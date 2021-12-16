@@ -1,0 +1,1601 @@
+[
+  {
+    "goal": {
+      "id": "1",
+      "title": "End poverty",
+      "indicators": [
+        
+        {
+          "id": "1-1-1",
+          "title": "Share of the population whose average per capita equivalent total expenditure is lower than the actual (estimated) subsistence minimum, %",
+          "description": "",
+          "keywords": "",
+          "href": "/1-1-1",
+          "status": "complete"
+        },
+        {
+          "id": "1-1-2",
+          "title": "Share of individuals whose daily consumption is below USD 5.05 PPP, %",
+          "description": "",
+          "keywords": "",
+          "href": "/1-1-2",
+          "status": "complete"
+        },
+        {
+          "id": "1-2-1",
+          "title": "Share of the poor population covered by state social support in the total number of poor people, %",
+          "description": "",
+          "keywords": "",
+          "href": "/1-2-1",
+          "status": "complete"
+        },
+        {
+          "id": "1-3-1",
+          "title": "Ratio of poverty levels of households with children and households without children, times",
+          "description": "",
+          "keywords": "",
+          "href": "/1-3-1",
+          "status": "complete"
+        },
+        {
+          "id": "1-3-2",
+          "title": "Share of food expenditure in total household spending, %",
+          "description": "",
+          "keywords": "",
+          "href": "/1-3-2",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "2",
+      "title": "End hunger, promote sustainable agriculture",
+      "indicators": [
+        
+        {
+          "id": "2-1-1",
+          "title": "Consumption of meat per capita, kg/year",
+          "description": "",
+          "keywords": "",
+          "href": "/2-1-1",
+          "status": "complete"
+        },
+        {
+          "id": "2-1-2",
+          "title": "Consumption of milk and dairy products per capita, kg/year",
+          "description": "",
+          "keywords": "",
+          "href": "/2-1-2",
+          "status": "complete"
+        },
+        {
+          "id": "2-1-3",
+          "title": "Consumption of fish per capita, kg/year",
+          "description": "",
+          "keywords": "",
+          "href": "/2-1-3",
+          "status": "complete"
+        },
+        {
+          "id": "2-1-4",
+          "title": "Consumption of vegetables per capita, kg/year",
+          "description": "",
+          "keywords": "",
+          "href": "/2-1-4",
+          "status": "complete"
+        },
+        {
+          "id": "2-1-5",
+          "title": "Consumption of fruit per capita, kg/year",
+          "description": "",
+          "keywords": "",
+          "href": "/2-1-5",
+          "status": "complete"
+        },
+        {
+          "id": "2-2-1",
+          "title": "Labour productivity in agriculture, USD 1000s per employee",
+          "description": "",
+          "keywords": "",
+          "href": "/2-2-1",
+          "status": "complete"
+        },
+        {
+          "id": "2-2-2",
+          "title": "The index of agricultural production, %",
+          "description": "",
+          "keywords": "",
+          "href": "/2-2-2",
+          "status": "complete"
+        },
+        {
+          "id": "2-3-1",
+          "title": "The index of food production, %",
+          "description": "",
+          "keywords": "",
+          "href": "/2-3-1",
+          "status": "complete"
+        },
+        {
+          "id": "2-3-2",
+          "title": "Share of food industry and agricultural raw materials processing production in exports of Ukrainian Classifier of Goods for Foreign Economic Activity groups 1–24, %",
+          "description": "",
+          "keywords": "",
+          "href": "/2-3-2",
+          "status": "complete"
+        },
+        {
+          "id": "2-3-3",
+          "title": "Share of agricultural land under organic production in the total area of agricultural land, %",
+          "description": "",
+          "keywords": "",
+          "href": "/2-3-3",
+          "status": "complete"
+        },
+        {
+          "id": "2-4-1",
+          "title": "The consumer price index for food, %",
+          "description": "",
+          "keywords": "",
+          "href": "/2-4-1",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "3",
+      "title": "Healthy lives and well-being",
+      "indicators": [
+        
+        {
+          "id": "3-1-1",
+          "title": "Number of cases of maternal mortality, per 100000 live births",
+          "description": "",
+          "keywords": "",
+          "href": "/3-1-1",
+          "status": "complete"
+        },
+        {
+          "id": "3-2-1",
+          "title": "Mortality of children under 5, cases per 1000 live births",
+          "description": "",
+          "keywords": "",
+          "href": "/3-2-1",
+          "status": "complete"
+        },
+        {
+          "id": "3-3-1",
+          "title": "Number of patients diagnosted with HIV for the first time, per 100000 persons",
+          "description": "",
+          "keywords": "",
+          "href": "/3-3-1",
+          "status": "complete"
+        },
+        {
+          "id": "3-3-2",
+          "title": "Number of patients diagnosted with active tuberculosis for the first time, per 100000 persons",
+          "description": "",
+          "keywords": "",
+          "href": "/3-3-2",
+          "status": "complete"
+        },
+        {
+          "id": "3-4-1",
+          "title": "Number of deaths from cerebrovascular disease at the age of 30–59, per 100000 men of corresponding age",
+          "description": "",
+          "keywords": "",
+          "href": "/3-4-1",
+          "status": "complete"
+        },
+        {
+          "id": "3-4-2",
+          "title": "Number of deaths from cerebrovascular disease at the age of 30–59, per 100000 women of corresponding age",
+          "description": "",
+          "keywords": "",
+          "href": "/3-4-2",
+          "status": "complete"
+        },
+        {
+          "id": "3-4-3",
+          "title": "Number of deaths from malignant breast tumours at the age of 30–59, per 100000 women of appropriate age",
+          "description": "",
+          "keywords": "",
+          "href": "/3-4-3",
+          "status": "complete"
+        },
+        {
+          "id": "3-4-4",
+          "title": "Number of deaths from malignant cervical tumours at the age of 30–59, per 100000 women of appropriate age",
+          "description": "",
+          "keywords": "",
+          "href": "/3-4-4",
+          "status": "complete"
+        },
+        {
+          "id": "3-5-1",
+          "title": "Probability of dying at the age of 20–64, men",
+          "description": "",
+          "keywords": "",
+          "href": "/3-5-1",
+          "status": "complete"
+        },
+        {
+          "id": "3-5-2",
+          "title": "Probability of dying at the age of 20–64, women",
+          "description": "",
+          "keywords": "",
+          "href": "/3-5-2",
+          "status": "complete"
+        },
+        {
+          "id": "3-6-1",
+          "title": "Number of deaths from road traffic accidents, per 100000 persons",
+          "description": "",
+          "keywords": "",
+          "href": "/3-6-1",
+          "status": "complete"
+        },
+        {
+          "id": "3-6-2",
+          "title": "Number of persons injured in road accidents, per 100000 persons",
+          "description": "",
+          "keywords": "",
+          "href": "/3-6-2",
+          "status": "complete"
+        },
+        {
+          "id": "3-7-1",
+          "title": "Immunization rate of population according to the Preventive Vaccination Calendar by designated six age groups for prevention of ten infectious diseases, %",
+          "description": "",
+          "keywords": "",
+          "href": "/3-7-1",
+          "status": "complete"
+        },
+        {
+          "id": "3-8-1",
+          "title": "Share of women who smoke at the age of 16–29, %",
+          "description": "",
+          "keywords": "",
+          "href": "/3-8-1",
+          "status": "complete"
+        },
+        {
+          "id": "3-8-2",
+          "title": "Share of men who smoke at the age of 16–29, %",
+          "description": "",
+          "keywords": "",
+          "href": "/3-8-2",
+          "status": "complete"
+        },
+        {
+          "id": "3-9-1",
+          "title": "Share of expenditures of the population in general spending on health, %",
+          "description": "",
+          "keywords": "",
+          "href": "/3-9-1",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "4",
+      "title": "Quality education",
+      "indicators": [
+        
+        {
+          "id": "4-1-1",
+          "title": "Share of graduates of general secondary education institutions in the current year who have target level of academic achievement in the Ukrainian language",
+          "description": "",
+          "keywords": "",
+          "href": "/4-1-1",
+          "status": "complete"
+        },
+        {
+          "id": "4-1-2",
+          "title": "Number of full-time secondary school students per teacher, at the beginning of the school year",
+          "description": "",
+          "keywords": "",
+          "href": "/4-1-2",
+          "status": "complete"
+        },
+        {
+          "id": "4-2-1",
+          "title": "Coverage of children aged 5 years by pre-school education institutions and structural units of public and private legal entities, %",
+          "description": "",
+          "keywords": "",
+          "href": "/4-2-1",
+          "status": "complete"
+        },
+        {
+          "id": "4-3-1",
+          "title": "Ratio of the number of entrants to vocational technical establishments to the total number of places in vocational technical establishments funded from the state and local budgets",
+          "description": "",
+          "keywords": "",
+          "href": "/4-3-1",
+          "status": "complete"
+        },
+        {
+          "id": "4-4-1",
+          "title": "Number of Ukrainian cities - members of the UNESCO Global Network of Learning Cities",
+          "description": "",
+          "keywords": "",
+          "href": "/4-4-1",
+          "status": "complete"
+        },
+        {
+          "id": "4-4-2",
+          "title": "Population by the level of education and gender, %",
+          "description": "",
+          "keywords": "",
+          "href": "/4-4-2",
+          "status": "complete"
+        },
+        {
+          "id": "4-4-3",
+          "title": "Cost of training a specialist",
+          "description": "",
+          "keywords": "",
+          "href": "/4-4-3",
+          "status": "complete"
+        },
+        {
+          "id": "4-4-4",
+          "title": "Expenditures of higher education institutions on scientific research activities",
+          "description": "",
+          "keywords": "",
+          "href": "/4-4-4",
+          "status": "complete"
+        },
+        {
+          "id": "4-5-1",
+          "title": "Level of participation of the population in formal and informal forms of education and vocational training, %",
+          "description": "",
+          "keywords": "",
+          "href": "/4-5-1",
+          "status": "complete"
+        },
+        {
+          "id": "4-5-2",
+          "title": "Share of the population who reported using the Internet over the past 12 months, %",
+          "description": "",
+          "keywords": "",
+          "href": "/4-5-2",
+          "status": "complete"
+        },
+        {
+          "id": "4-6-1",
+          "title": "Share of men among pedagogical staff, %",
+          "description": "",
+          "keywords": "",
+          "href": "/4-6-1",
+          "status": "complete"
+        },
+        {
+          "id": "4-7-1",
+          "title": "Share of rural full-time secondary schools with Internet access, %",
+          "description": "",
+          "keywords": "",
+          "href": "/4-7-1",
+          "status": "complete"
+        },
+        {
+          "id": "4-7-2",
+          "title": "Share of rural full-time secondary schools, where computers are used in the educational process, %",
+          "description": "",
+          "keywords": "",
+          "href": "/4-7-2",
+          "status": "complete"
+        },
+        {
+          "id": "4-7-3",
+          "title": "Share of full-time secondary schools with inclusive education, %",
+          "description": "",
+          "keywords": "",
+          "href": "/4-7-3",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "5",
+      "title": "Gender equality",
+      "indicators": [
+        
+        {
+          "id": "5-1-1",
+          "title": "Number of normative acts which were revised or adopted to provide men and women with equal rights and opportunities to prevent discrimination again women and girls, units",
+          "description": "",
+          "keywords": "",
+          "href": "/5-1-1",
+          "status": "complete"
+        },
+        {
+          "id": "5-2-1",
+          "title": "Percentage of women and girls over the age of 15 who have ever partnered with a man and were physically, sexually, or psychologically abused by their current or previous intimate partner over the last 12 months, by form of violence and age",
+          "description": "",
+          "keywords": "",
+          "href": "/5-2-1",
+          "status": "complete"
+        },
+        {
+          "id": "5-2-2",
+          "title": "Number of complaints regarding domestic violence, thousands",
+          "description": "",
+          "keywords": "",
+          "href": "/5-2-2",
+          "status": "complete"
+        },
+        {
+          "id": "5-2-3",
+          "title": "Number of established specialized support services for victims of domestic violence",
+          "description": "",
+          "keywords": "",
+          "href": "/5-2-3",
+          "status": "complete"
+        },
+        {
+          "id": "5-2-4",
+          "title": "Number of child victims of abuse",
+          "description": "",
+          "keywords": "",
+          "href": "/5-2-4",
+          "status": "complete"
+        },
+        {
+          "id": "5-2-5",
+          "title": "Number of persons who participated in programs for abusers",
+          "description": "",
+          "keywords": "",
+          "href": "/5-2-5",
+          "status": "complete"
+        },
+        {
+          "id": "5-2-6",
+          "title": "Number of specialists trained in preventing and combating domestic violence",
+          "description": "",
+          "keywords": "",
+          "href": "/5-2-6",
+          "status": "complete"
+        },
+        {
+          "id": "5-2-7",
+          "title": "Number of specialists trained in preventing and combating discrimination against women",
+          "description": "",
+          "keywords": "",
+          "href": "/5-2-7",
+          "status": "complete"
+        },
+        {
+          "id": "5-2-8",
+          "title": "Number of social services provided according to the needs of persons that complained regarding domestic violence",
+          "description": "",
+          "keywords": "",
+          "href": "/5-2-8",
+          "status": "complete"
+        },
+        {
+          "id": "5-2-9",
+          "title": "Number of information campaigns on combating domestic violence conducted",
+          "description": "",
+          "keywords": "",
+          "href": "/5-2-9",
+          "status": "complete"
+        },
+        {
+          "id": "5-2-10",
+          "title": "Number of persons covered by information campaigns on combating domestic violence",
+          "description": "",
+          "keywords": "",
+          "href": "/5-2-10",
+          "status": "complete"
+        },
+        {
+          "id": "5-2-11",
+          "title": "Percentage of increase in zero tolerance to all manifestations of violence among the population of Ukraine",
+          "description": "",
+          "keywords": "",
+          "href": "/5-2-11",
+          "status": "complete"
+        },
+        {
+          "id": "5-2-12",
+          "title": "Percentage of funds available in relevant local budgets for regional programs of combating domestic violence",
+          "description": "",
+          "keywords": "",
+          "href": "/5-2-12",
+          "status": "complete"
+        },
+        {
+          "id": "5-3-1",
+          "title": "Ratio of duration of unpaid domestic work (housekeeping, care for children and other family members etc) between men and women, %",
+          "description": "",
+          "keywords": "",
+          "href": "/5-3-1",
+          "status": "complete"
+        },
+        {
+          "id": "5-4-1",
+          "title": "Share of women among the Members of Parliament of Ukraine, %",
+          "description": "",
+          "keywords": "",
+          "href": "/5-4-1",
+          "status": "complete"
+        },
+        {
+          "id": "5-4-2",
+          "title": "Share of women among the members of regional councils and local councils of regional significance, %",
+          "description": "",
+          "keywords": "",
+          "href": "/5-4-2",
+          "status": "complete"
+        },
+        {
+          "id": "5-4-3",
+          "title": "Share of women in the category A, B, C civil service positions",
+          "description": "",
+          "keywords": "",
+          "href": "/5-4-3",
+          "status": "complete"
+        },
+        {
+          "id": "5-5-1",
+          "title": "Birth rate under the age of 20, per 1000 women aged 15-19",
+          "description": "",
+          "keywords": "",
+          "href": "/5-5-1",
+          "status": "complete"
+        },
+        {
+          "id": "5-6-1",
+          "title": "Ratio of average wages for men and women, %",
+          "description": "",
+          "keywords": "",
+          "href": "/5-6-1",
+          "status": "complete"
+        },
+        {
+          "id": "5-6-2",
+          "title": "Employment rate of women aged 25–44 with children aged 3–5, %",
+          "description": "",
+          "keywords": "",
+          "href": "/5-6-2",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "6",
+      "title": "Clean water and sanitation",
+      "indicators": [
+        
+        {
+          "id": "6-1-1",
+          "title": "Safety and quality of drinking water by microbiological parameters (% of non-standard samples)",
+          "description": "",
+          "keywords": "",
+          "href": "/6-1-1",
+          "status": "complete"
+        },
+        {
+          "id": "6-1-2",
+          "title": "Safety and quality of drinking water by radiation parameters (% of non - standard samples)",
+          "description": "",
+          "keywords": "",
+          "href": "/6-1-2",
+          "status": "complete"
+        },
+        {
+          "id": "6-1-3",
+          "title": "Safety and quality of drinking water by organoleptic, physico-chemical and sanitary-toxicological parameters (% of non-standard samples)",
+          "description": "",
+          "keywords": "",
+          "href": "/6-1-3",
+          "status": "complete"
+        },
+        {
+          "id": "6-1-4",
+          "title": "Share of the rural population with access to centralized water supply, %",
+          "description": "",
+          "keywords": "",
+          "href": "/6-1-4",
+          "status": "complete"
+        },
+        {
+          "id": "6-1-5",
+          "title": "Share of the urban population with access to centralized water supply, %",
+          "description": "",
+          "keywords": "",
+          "href": "/6-1-5",
+          "status": "complete"
+        },
+        {
+          "id": "6-2-1",
+          "title": "Share of the rural population with access to a centralized water drain, %",
+          "description": "",
+          "keywords": "",
+          "href": "/6-2-1",
+          "status": "complete"
+        },
+        {
+          "id": "6-2-2",
+          "title": "Share of the urban population with access to a centralized water drain, %",
+          "description": "",
+          "keywords": "",
+          "href": "/6-2-2",
+          "status": "complete"
+        },
+        {
+          "id": "6-3-1",
+          "title": "Volume of discharge of polluted (polluted without treatment or insufficiently treated) wastewater into water bodies, millions of cubic metres",
+          "description": "",
+          "keywords": "",
+          "href": "/6-3-1",
+          "status": "complete"
+        },
+        {
+          "id": "6-3-2",
+          "title": "Share of discharge of polluted (polluted without treatment or insufficiently treated) wastewater into water bodies in total discharges, %",
+          "description": "",
+          "keywords": "",
+          "href": "/6-3-2",
+          "status": "complete"
+        },
+        {
+          "id": "6-4-1",
+          "title": "Water content of GDP, cubic metres of water used per UAH 1000 of GDP (actual prices)",
+          "description": "",
+          "keywords": "",
+          "href": "/6-4-1",
+          "status": "complete"
+        },
+        {
+          "id": "6-4-2",
+          "title": "Current water content of GDP to 2015 level, %",
+          "description": "",
+          "keywords": "",
+          "href": "/6-4-2",
+          "status": "complete"
+        },
+        {
+          "id": "6-5-1",
+          "title": "Number of river basins with approved river basin management plans, units",
+          "description": "",
+          "keywords": "",
+          "href": "/6-5-1",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "7",
+      "title": "Affordable and clean energy",
+      "indicators": [
+        
+        {
+          "id": "7-1-1",
+          "title": "Generation of power, billions of KWh",
+          "description": "",
+          "keywords": "",
+          "href": "/7-1-1",
+          "status": "complete"
+        },
+        {
+          "id": "7-1-2",
+          "title": "Electric power distribution losses, %",
+          "description": "",
+          "keywords": "",
+          "href": "/7-1-2",
+          "status": "complete"
+        },
+        {
+          "id": "7-1-3",
+          "title": "Heat losses in heat networks, %",
+          "description": "",
+          "keywords": "",
+          "href": "/7-1-3",
+          "status": "complete"
+        },
+        {
+          "id": "7-2-1",
+          "title": "Maximum share of imported primary energy (excluding nuclear fuel) from one country (company) in the total supply (imports), %",
+          "description": "",
+          "keywords": "",
+          "href": "/7-2-1",
+          "status": "complete"
+        },
+        {
+          "id": "7-2-2",
+          "title": "Share of one supplier of the nuclear fuel market, %",
+          "description": "",
+          "keywords": "",
+          "href": "/7-2-2",
+          "status": "complete"
+        },
+        {
+          "id": "7-3-1",
+          "title": "Share of energy produced from renewable sources in total final energy consumption, %",
+          "description": "",
+          "keywords": "",
+          "href": "/7-3-1",
+          "status": "complete"
+        },
+        {
+          "id": "7-4-1",
+          "title": "Energy intensity of GDP (primary energy consumption per unit of GDP), kg of oil equivalent per USD 1 by PPP 2011",
+          "description": "",
+          "keywords": "",
+          "href": "/7-4-1",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "8",
+      "title": "Decent work and economic growth",
+      "indicators": [
+        
+        {
+          "id": "8-1-1",
+          "title": "GDP volume index, %",
+          "description": "",
+          "keywords": "",
+          "href": "/8-1-1",
+          "status": "complete"
+        },
+        {
+          "id": "8-1-2",
+          "title": "Share of gross fixed capital to GDP, %",
+          "description": "",
+          "keywords": "",
+          "href": "/8-1-2",
+          "status": "complete"
+        },
+        {
+          "id": "8-1-3",
+          "title": "Share of exports of goods whose production uses technologies of high and medium high level in total exports of goods, % (groups /Products of chemical and related industries/, /Polymers, plastics and articles thereof/, /Machinery, equipment and mechanisms, electrical equipment/, ‘/Ground transportation, aircraft, floating craft/, 90th subgroup of the group /Optical and photographic devices and appliances/ (UCGFEA))",
+          "description": "",
+          "keywords": "",
+          "href": "/8-1-3",
+          "status": "complete"
+        },
+        {
+          "id": "8-1-4",
+          "title": "Ukraine_s position as rated by the Global Innovation Index",
+          "description": "",
+          "keywords": "",
+          "href": "/8-1-4",
+          "status": "complete"
+        },
+        {
+          "id": "8-2-1",
+          "title": "The return on assets",
+          "description": "",
+          "keywords": "",
+          "href": "/8-2-1",
+          "status": "complete"
+        },
+        {
+          "id": "8-2-2",
+          "title": "Labor productivity index, %",
+          "description": "",
+          "keywords": "",
+          "href": "/8-2-2",
+          "status": "complete"
+        },
+        {
+          "id": "8-3-1",
+          "title": "Employment rate among those aged 20–64, %",
+          "description": "",
+          "keywords": "",
+          "href": "/8-3-1",
+          "status": "complete"
+        },
+        {
+          "id": "8-4-1",
+          "title": "Share of youth not in employment, education or professional training in the total number of those aged 15–24, %",
+          "description": "",
+          "keywords": "",
+          "href": "/8-4-1",
+          "status": "complete"
+        },
+        {
+          "id": "8-5-1",
+          "title": "Number of victims of accidents at work that led to disability of 1 day or more, % of 2015 level",
+          "description": "",
+          "keywords": "",
+          "href": "/8-5-1",
+          "status": "complete"
+        },
+        {
+          "id": "8-5-2",
+          "title": "Number of workers killed in accidents at work, % of 2015 level",
+          "description": "",
+          "keywords": "",
+          "href": "/8-5-2",
+          "status": "complete"
+        },
+        {
+          "id": "8-5-3",
+          "title": "Share of workers employed in jobs with hazardous working conditions in the total full-time payroll, %",
+          "description": "",
+          "keywords": "",
+          "href": "/8-5-3",
+          "status": "complete"
+        },
+        {
+          "id": "8-6-1",
+          "title": "Number of persons employed by SMEs, millions of persons",
+          "description": "",
+          "keywords": "",
+          "href": "/8-6-1",
+          "status": "complete"
+        },
+        {
+          "id": "8-6-2",
+          "title": "Share of value added against production costs of SMEs, % of total value added against production costs",
+          "description": "",
+          "keywords": "",
+          "href": "/8-6-2",
+          "status": "complete"
+        },
+        {
+          "id": "8-6-3",
+          "title": "Ukraine_s position in the rating of Doing Business",
+          "description": "",
+          "keywords": "",
+          "href": "/8-6-3",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "9",
+      "title": "Industry, innovation and infrastructure",
+      "indicators": [
+        
+        {
+          "id": "9-1-1",
+          "title": "Share of the rural population living further than 3 km from paved roads, %",
+          "description": "",
+          "keywords": "",
+          "href": "/9-1-1",
+          "status": "complete"
+        },
+        {
+          "id": "9-1-2",
+          "title": "Volume of transported goods, millions of tonnes",
+          "description": "",
+          "keywords": "",
+          "href": "/9-1-2",
+          "status": "complete"
+        },
+        {
+          "id": "9-1-3",
+          "title": "Number of passengers, millions",
+          "description": "",
+          "keywords": "",
+          "href": "/9-1-3",
+          "status": "complete"
+        },
+        {
+          "id": "9-1-4",
+          "title": "Degree of depreciation of assets by ACE 'Transport, storage, post and courier services', %",
+          "description": "",
+          "keywords": "",
+          "href": "/9-1-4",
+          "status": "complete"
+        },
+        {
+          "id": "9-2-1",
+          "title": "Share of electric transport in domestic traffic, %",
+          "description": "",
+          "keywords": "",
+          "href": "/9-2-1",
+          "status": "complete"
+        },
+        {
+          "id": "9-3-1",
+          "title": "Share of hard-surface principal public roads that meet the regulatory requirements, %",
+          "description": "",
+          "keywords": "",
+          "href": "/9-3-1",
+          "status": "complete"
+        },
+        {
+          "id": "9-3-2",
+          "title": "Share of facilities of public and civil use, improvement equipped to the needs of people with disabilities, %",
+          "description": "",
+          "keywords": "",
+          "href": "/9-3-2",
+          "status": "complete"
+        },
+        {
+          "id": "9-4-1",
+          "title": "Share of value added against production costs of enterprises that belong to the high-tech sector of processing industry (in particular, manufacture of pharmaceutical products and preparations; computers, electronic and optical products; aircraft and spacecraft; related equipment according to CTEA) in the total value added against production cost, %",
+          "description": "",
+          "keywords": "",
+          "href": "/9-4-1",
+          "status": "complete"
+        },
+        {
+          "id": "9-4-2",
+          "title": "Share of value added against production costs of enterprises that belong to the medium high-tech sector of processing industry (including production of chemical products; electrical equipment; machinery and equipment; motor vehicles, trailers and semi–trailers; other vehicles according to CTEA) in total value added against production cost, %",
+          "description": "",
+          "keywords": "",
+          "href": "/9-4-2",
+          "status": "complete"
+        },
+        {
+          "id": "9-4-3",
+          "title": "Share of workers employed by enterprises that belong to the high- and medium hightech sectors of processing industry (including production of pharmaceutical products and preparations; chemicals; mechanical engineering; computers, electronic and optical products; aircraft and spacecraft; related equipment according to CTEA) in the total number of workers employed in industry, %",
+          "description": "",
+          "keywords": "",
+          "href": "/9-4-3",
+          "status": "complete"
+        },
+        {
+          "id": "9-5-1",
+          "title": "Share of expenditure on scientific research and development in GDP, %",
+          "description": "",
+          "keywords": "",
+          "href": "/9-5-1",
+          "status": "complete"
+        },
+        {
+          "id": "9-5-2",
+          "title": "Share of sales of innovative products in total sales of industrial products, %",
+          "description": "",
+          "keywords": "",
+          "href": "/9-5-2",
+          "status": "complete"
+        },
+        {
+          "id": "9-6-1",
+          "title": "Population coverage with Internet services, subscribers per 100 persons",
+          "description": "",
+          "keywords": "",
+          "href": "/9-6-1",
+          "status": "complete"
+        },
+        {
+          "id": "9-7-1",
+          "title": "Share of researchers under 40 in the total number of researchers",
+          "description": "",
+          "keywords": "",
+          "href": "/9-7-1",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "10",
+      "title": "Reduce inequality",
+      "indicators": [
+        
+        {
+          "id": "10-1-1",
+          "title": "Ratio of growth rate of the average per capita total income of the least well off 40% to the whole population, %",
+          "description": "",
+          "keywords": "",
+          "href": "/10-1-1",
+          "status": "complete"
+        },
+        {
+          "id": "10-1-2",
+          "title": "Share of total income of the least well off 40% in the total income of population, %",
+          "description": "",
+          "keywords": "",
+          "href": "/10-1-2",
+          "status": "complete"
+        },
+        {
+          "id": "10-2-1",
+          "title": "Share of persons who reported that in the past 12 months they personally experienced gender-based discrimination in the total number of requests to expert councils on gender-based discrimination, %",
+          "description": "",
+          "keywords": "",
+          "href": "/10-2-1",
+          "status": "complete"
+        },
+        {
+          "id": "10-3-1",
+          "title": "Share of rural households who suffered from deprivation due to lack of access to ambulance services in the settlement, %",
+          "description": "",
+          "keywords": "",
+          "href": "/10-3-1",
+          "status": "complete"
+        },
+        {
+          "id": "10-3-2",
+          "title": "Share of rural households who suffered from deprivation due to the lack of a medical facility near their home, %",
+          "description": "",
+          "keywords": "",
+          "href": "/10-3-2",
+          "status": "complete"
+        },
+        {
+          "id": "10-3-3",
+          "title": "Share of rural households who suffered from deprivation due to the lack of regular daily transport to another settlement with developed infrastructure, %",
+          "description": "",
+          "keywords": "",
+          "href": "/10-3-3",
+          "status": "complete"
+        },
+        {
+          "id": "10-4-1",
+          "title": "Ratio of the average wage (income) of 10th and first decile groups of workers (decile coefficient), times",
+          "description": "",
+          "keywords": "",
+          "href": "/10-4-1",
+          "status": "complete"
+        },
+        {
+          "id": "10-5-1",
+          "title": "Ratio of average pension to average wage in the economy (with 35 years of insurance experience), %",
+          "description": "",
+          "keywords": "",
+          "href": "/10-5-1",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "11",
+      "title": "Sustainable development of cities and communities",
+      "indicators": [
+        
+        {
+          "id": "11-1-1",
+          "title": "Solvency ratio of the borrower (ratio of monthly payments of the borrower and his/her family on mortgage debt servicing to total monthly income)",
+          "description": "",
+          "keywords": "",
+          "href": "/11-1-1",
+          "status": "complete"
+        },
+        {
+          "id": "11-1-2",
+          "title": "Coverage of territorial units of Ukraine (regions) with affordable housing programs for different categories of citizens, %",
+          "description": "",
+          "keywords": "",
+          "href": "/11-1-2",
+          "status": "complete"
+        },
+        {
+          "id": "11-2-1",
+          "title": "Share of regions that have approved and implemented regional development strategies and action plans for their implementation developed with public participation, %",
+          "description": "",
+          "keywords": "",
+          "href": "/11-2-1",
+          "status": "complete"
+        },
+        {
+          "id": "11-3-1",
+          "title": "Number of cultural and natural heritage sites included in the UNESCO World Heritage List, units",
+          "description": "",
+          "keywords": "",
+          "href": "/11-3-1",
+          "status": "complete"
+        },
+        {
+          "id": "11-3-2",
+          "title": "Number of monuments of national importance included in the State Monument List of Ukraine, units",
+          "description": "",
+          "keywords": "",
+          "href": "/11-3-2",
+          "status": "complete"
+        },
+        {
+          "id": "11-3-3",
+          "title": "Area of the nature reserve fund of national importance, % of the country area",
+          "description": "",
+          "keywords": "",
+          "href": "/11-3-3",
+          "status": "complete"
+        },
+        {
+          "id": "11-4-1",
+          "title": "Status of implementation (development, modernization, improvement) of local automated centralized public alert systems, %",
+          "description": "",
+          "keywords": "",
+          "href": "/11-4-1",
+          "status": "complete"
+        },
+        {
+          "id": "11-5-1",
+          "title": "Emissions of air pollutants from stationary sources,% to 2015 level",
+          "description": "",
+          "keywords": "",
+          "href": "/11-5-1",
+          "status": "complete"
+        },
+        {
+          "id": "11-5-2",
+          "title": "Number of cities in which the average annual concentrations of major pollutants in the atmospheric air exceed the average daily maximum permissible concentrations, units",
+          "description": "",
+          "keywords": "",
+          "href": "/11-5-2",
+          "status": "complete"
+        },
+        {
+          "id": "11-6-1",
+          "title": "Number of workers employed in tourism business entities (CEA code-2010 – 55.1, 55.2, 55.3, 79.11, 79.12), persons",
+          "description": "",
+          "keywords": "",
+          "href": "/11-6-1",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "12",
+      "title": "Sustainable consumption and production",
+      "indicators": [
+        
+        {
+          "id": "12-1-1",
+          "title": "Resource intensity of GDP (ratio of consumed volumes of natural resources, waste generated and pollutant emissions to GDP), % to 2015 level",
+          "description": "",
+          "keywords": "",
+          "href": "/12-1-1",
+          "status": "complete"
+        },
+        {
+          "id": "12-2-1",
+          "title": "Share of post-harvest losses in the total production of cereals, %",
+          "description": "",
+          "keywords": "",
+          "href": "/12-2-1",
+          "status": "complete"
+        },
+        {
+          "id": "12-2-2",
+          "title": "Share of post-harvest losses in overall production of vegetables and melons, %",
+          "description": "",
+          "keywords": "",
+          "href": "/12-2-2",
+          "status": "complete"
+        },
+        {
+          "id": "12-3-1",
+          "title": "Share of enterprises that implemented chemical management systems in accordance with international standards in the total number of enterprises using hazardous chemicals, %",
+          "description": "",
+          "keywords": "",
+          "href": "/12-3-1",
+          "status": "complete"
+        },
+        {
+          "id": "12-4-1",
+          "title": "Volume of waste generated by all economic activities per unit of GDP, kg per USD 1,000 PPP in 2011",
+          "description": "",
+          "keywords": "",
+          "href": "/12-4-1",
+          "status": "complete"
+        },
+        {
+          "id": "12-4-2",
+          "title": "Share of burned and recycled waste in the total waste generated, %",
+          "description": "",
+          "keywords": "",
+          "href": "/12-4-2",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "13",
+      "title": "Mitigate climate change impact",
+      "indicators": [
+        
+        {
+          "id": "13-1-1",
+          "title": "Ratio of GHG emissions to 1990 level, %",
+          "description": "",
+          "keywords": "",
+          "href": "/13-1-1",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "14",
+      "title": "Conserve marine resources",
+      "indicators": [
+        
+        {
+          "id": "14-1-1",
+          "title": "Share of discharges of polluted wastewater in total discharges in the marine environment, %",
+          "description": "",
+          "keywords": "",
+          "href": "/14-1-1",
+          "status": "complete"
+        },
+        {
+          "id": "14-2-1",
+          "title": "Area of territories and objects of the natural reserve fund of coastal regions, % of the territory of coastal areas",
+          "description": "",
+          "keywords": "",
+          "href": "/14-2-1",
+          "status": "complete"
+        },
+        {
+          "id": "14-2-2",
+          "title": "Area of territories and objects of the natural reserve fund in the Black and Azov Seas, thousands of hectares",
+          "description": "",
+          "keywords": "",
+          "href": "/14-2-2",
+          "status": "complete"
+        },
+        {
+          "id": "14-3-1",
+          "title": "Volumes of extraction of aquatic bioresources in the exclusive (maritime) economic zone of Ukraine, thousands of tonnes",
+          "description": "",
+          "keywords": "",
+          "href": "/14-3-1",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "15",
+      "title": "Protect and restore terrestrial ecosystems",
+      "indicators": [
+        
+        {
+          "id": "15-1-1",
+          "title": "Area of territories and objects of the natural reserve fund, thousands of hectares",
+          "description": "",
+          "keywords": "",
+          "href": "/15-1-1",
+          "status": "complete"
+        },
+        {
+          "id": "15-1-2",
+          "title": "Share of area of territories and objects of the natural reserve fund in the total area of the country, %",
+          "description": "",
+          "keywords": "",
+          "href": "/15-1-2",
+          "status": "complete"
+        },
+        {
+          "id": "15-1-3",
+          "title": "Share of the area of the national environmental network in the total area of the country, %",
+          "description": "",
+          "keywords": "",
+          "href": "/15-1-3",
+          "status": "complete"
+        },
+        {
+          "id": "15-2-1",
+          "title": "Forested territory of the country, %",
+          "description": "",
+          "keywords": "",
+          "href": "/15-2-1",
+          "status": "complete"
+        },
+        {
+          "id": "15-2-2",
+          "title": "Wood stock in forests, millions of cubic metres",
+          "description": "",
+          "keywords": "",
+          "href": "/15-2-2",
+          "status": "complete"
+        },
+        {
+          "id": "15-3-1",
+          "title": "Setting and implementation of a voluntary national objective to achieve a neutral level of land degradation in the activity area ‘Maintaining organic matter (humus) content in soils’ (organic carbon (humus) content in agricultural soils (%)) (data from international sources and organizations may be additionally used)",
+          "description": "",
+          "keywords": "",
+          "href": "/15-3-1",
+          "status": "complete"
+        },
+        {
+          "id": "15-3-2",
+          "title": "Amount of arable land, thousands of hectares",
+          "description": "",
+          "keywords": "",
+          "href": "/15-3-2",
+          "status": "complete"
+        },
+        {
+          "id": "15-3-3",
+          "title": "Share of arable land in total area of the country, %",
+          "description": "",
+          "keywords": "",
+          "href": "/15-3-3",
+          "status": "complete"
+        },
+        {
+          "id": "15-3-4",
+          "title": "Area of land used for organic production, thousands of hectares",
+          "description": "",
+          "keywords": "",
+          "href": "/15-3-4",
+          "status": "complete"
+        },
+        {
+          "id": "15-3-5",
+          "title": "Area of agricultural land of extensive use (hayfields, pastures), thousands of hectares",
+          "description": "",
+          "keywords": "",
+          "href": "/15-3-5",
+          "status": "complete"
+        },
+        {
+          "id": "15-3-6",
+          "title": "Share of area of agricultural land of extensive use (hayfields, pastures) in total area of the country, %",
+          "description": "",
+          "keywords": "",
+          "href": "/15-3-6",
+          "status": "complete"
+        },
+        {
+          "id": "15-4-1",
+          "title": "Area of the nature reserve fund in mountainous regions, thousands of hectares",
+          "description": "",
+          "keywords": "",
+          "href": "/15-4-1",
+          "status": "complete"
+        },
+        {
+          "id": "15-4-2",
+          "title": "Share of the area of the nature reserve fund in mountainous regions in the total area of the country, %",
+          "description": "",
+          "keywords": "",
+          "href": "/15-4-2",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "16",
+      "title": "Peace, justice and strong institutions",
+      "indicators": [
+        
+        {
+          "id": "16-1-1",
+          "title": "Number of criminal offenses under Articles 115–118, 121 of the Criminal Code of Ukraine (evident intentional homicide, intentional grievous bodily harm) reported in the past 12 months per 100 000 persons",
+          "description": "",
+          "keywords": "",
+          "href": "/16-1-1",
+          "status": "complete"
+        },
+        {
+          "id": "16-1-2",
+          "title": "Number of victims of crimes related to physical violence (intentional homicide (and relevant attempts), rape (and relevant attempts), grievous bodily harm), reported over the past 12 months, per 100 000 persons",
+          "description": "",
+          "keywords": "",
+          "href": "/16-1-2",
+          "status": "complete"
+        },
+        {
+          "id": "16-1-3",
+          "title": "Number of victims of rape in the past 12 months, persons",
+          "description": "",
+          "keywords": "",
+          "href": "/16-1-3",
+          "status": "complete"
+        },
+        {
+          "id": "16-2-1",
+          "title": "Number of victims of human trafficking or other illicit transactions involving the transfer of human beings reported in the past 12 months, persons",
+          "description": "",
+          "keywords": "",
+          "href": "/16-2-1",
+          "status": "complete"
+        },
+        {
+          "id": "16-2-2",
+          "title": "Number of specialists trained in combating human trafficking",
+          "description": "",
+          "keywords": "",
+          "href": "/16-2-2",
+          "status": "complete"
+        },
+        {
+          "id": "16-2-3",
+          "title": "Number of social services provided to meet the needs of victims of human trafficking",
+          "description": "",
+          "keywords": "",
+          "href": "/16-2-3",
+          "status": "complete"
+        },
+        {
+          "id": "16-2-4",
+          "title": "Number of counter-trafficking information campaigns conducted",
+          "description": "",
+          "keywords": "",
+          "href": "/16-2-4",
+          "status": "complete"
+        },
+        {
+          "id": "16-2-5",
+          "title": "Number of persons covered by counter-trafficking information campaigns",
+          "description": "",
+          "keywords": "",
+          "href": "/16-2-5",
+          "status": "complete"
+        },
+        {
+          "id": "16-2-6",
+          "title": "Percentage of funding of regional counter-trafficking programs from relevant local budgets",
+          "description": "",
+          "keywords": "",
+          "href": "/16-2-6",
+          "status": "complete"
+        },
+        {
+          "id": "16-2-7",
+          "title": "Number of persons who obtained the victim of trafficking status, persons",
+          "description": "",
+          "keywords": "",
+          "href": "/16-2-7",
+          "status": "complete"
+        },
+        {
+          "id": "16-3-1",
+          "title": "Level of public confidence in the court, %",
+          "description": "",
+          "keywords": "",
+          "href": "/16-3-1",
+          "status": "complete"
+        },
+        {
+          "id": "16-3-2",
+          "title": "Number of persons seeking free legal aid, persons",
+          "description": "",
+          "keywords": "",
+          "href": "/16-3-2",
+          "status": "complete"
+        },
+        {
+          "id": "16-4-1",
+          "title": "Share of high-level risks in the overall national aggregate of risks in the system for preventing and counteracting the legalization of illegal incomes, the financing of terrorism and the proliferation of weapons of mass destruction, %",
+          "description": "",
+          "keywords": "",
+          "href": "/16-4-1",
+          "status": "complete"
+        },
+        {
+          "id": "16-5-1",
+          "title": "Number of weapons seized (criminal proceedings with completed pre-trial investigation for the past 12 months, units)",
+          "description": "",
+          "keywords": "",
+          "href": "/16-5-1",
+          "status": "complete"
+        },
+        {
+          "id": "16-5-2",
+          "title": "Number of ammunition seized (criminal proceedings with completed pre-trial investigation for the past 12 months, units)",
+          "description": "",
+          "keywords": "",
+          "href": "/16-5-2",
+          "status": "complete"
+        },
+        {
+          "id": "16-5-3",
+          "title": "Number of criminal offenses related to illicit arms trafficking reported in the past 12 months, units",
+          "description": "",
+          "keywords": "",
+          "href": "/16-5-3",
+          "status": "complete"
+        },
+        {
+          "id": "16-6-1",
+          "title": "Index of perception of corruption in the public sector by the business community and experts",
+          "description": "",
+          "keywords": "",
+          "href": "/16-6-1",
+          "status": "complete"
+        },
+        {
+          "id": "16-7-1",
+          "title": "Ukraine’s ranking in the Global Competitiveness Report by sub-index ‘Institutions (government and public institutions)’",
+          "description": "",
+          "keywords": "",
+          "href": "/16-7-1",
+          "status": "complete"
+        },
+        {
+          "id": "16-8-1",
+          "title": "Share of the population satisfied with their experience of the use of infrastructure and the level of social services in key areas in Donetsk and Luhansk regions, %",
+          "description": "",
+          "keywords": "",
+          "href": "/16-8-1",
+          "status": "complete"
+        },
+        {
+          "id": "16-8-2",
+          "title": "Share of the population satisfied with the level of administrative governance services in Donetsk and Luhansk regions, %",
+          "description": "",
+          "keywords": "",
+          "href": "/16-8-2",
+          "status": "complete"
+        },
+        {
+          "id": "16-8-3",
+          "title": "Number of communities in the Donetsk and Luhansk regions that implemented mine action, units",
+          "description": "",
+          "keywords": "",
+          "href": "/16-8-3",
+          "status": "complete"
+        },
+        {
+          "id": "16-8-4",
+          "title": "Demined area in Donetsk and Luhansk regions, hectares",
+          "description": "",
+          "keywords": "",
+          "href": "/16-8-4",
+          "status": "complete"
+        },
+        {
+          "id": "16-8-5",
+          "title": "Number of cases of detection of explosive objects (operative component), units",
+          "description": "",
+          "keywords": "",
+          "href": "/16-8-5",
+          "status": "complete"
+        },
+        {
+          "id": "16-9-1",
+          "title": "Index of social cohesion and reconciliation",
+          "description": "",
+          "keywords": "",
+          "href": "/16-9-1",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "17",
+      "title": "Partnership for sustainable development",
+      "indicators": [
+        
+        {
+          "id": "17-1-1",
+          "title": "Ratio of private remittances from abroad to GDP, %",
+          "description": "",
+          "keywords": "",
+          "href": "/17-1-1",
+          "status": "complete"
+        },
+        {
+          "id": "17-1-2",
+          "title": "Net foreign direct investment (according to the balance of payments), USD billions",
+          "description": "",
+          "keywords": "",
+          "href": "/17-1-2",
+          "status": "complete"
+        },
+        {
+          "id": "17-2-1",
+          "title": "Ratio of gross external debt to exports of goods and services in annual terms, %",
+          "description": "",
+          "keywords": "",
+          "href": "/17-2-1",
+          "status": "complete"
+        },
+        {
+          "id": "17-3-1",
+          "title": "Number of projects of public–private partnership, units",
+          "description": "",
+          "keywords": "",
+          "href": "/17-3-1",
+          "status": "complete"
+        }]
+    }
+  }]
